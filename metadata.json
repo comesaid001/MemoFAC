@@ -1,0 +1,6 @@
+{
+  "name": "MemoFAC - Academic Exchange & Secure Reader",
+  "description": "Plateforme web SaaS d'échange académique et lecteur sécurisé DRM pour étudiants et enseignants des universités africaines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
